@@ -1,0 +1,42 @@
+.ex4_1.closed {
+    display: none;
+}
+
+.ex7 {
+    padding: 15px;
+    background: #eaeaea;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.ex {
+    padding: 35px;
+}
+
+button {
+    padding: 15px;
+}
+
+td div {
+    padding: 15px;
+}
+
+.ex10_1 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+.ex10_1 input {
+    height: 40px;
+}
+
+a {
+    margin-right: 50px;
+}
